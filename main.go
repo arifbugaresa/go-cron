@@ -1,1 +1,5 @@
-package go_cron
+package main
+
+func main()  {
+	
+}
